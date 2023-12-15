@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://xue1027.github.io/musical-barnacle/'
 canonifyurls = true
 languageCode = 'en-us'
 publishDir = "docs"
