@@ -7,4 +7,3 @@ theme_version: '2.8.2'
 cascade:
   featured_image: '/images/OIP-C.jpg'
 ---
-百变小樱组承办
