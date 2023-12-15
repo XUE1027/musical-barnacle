@@ -1,0 +1,11 @@
+baseURL = 'https://example.org/'
+canonifyurls = true
+languageCode = 'en-us'
+publishDir = "docs"
+title = '01新闻网'
+theme = 'ananke'
+[markup]
+defaultMarkdownHandler = "goldmark"
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
